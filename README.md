@@ -1,4 +1,5 @@
 # connect-4
+(EN)
 features:
 
 7x7 grid
@@ -10,11 +11,12 @@ moves:
   * flip the board 'r'
   * save current session 's'
   
- # fr
+(FR)
  spécificités:
  
  grille 7x7
  
+ coups:
   * placer une jeton dans une colonne (1 à 7)
   * tourner le plateau de 90 degrés sur la gauche 'g'
   * tourner le plateau de 90 degrés sur la droite 'd'
